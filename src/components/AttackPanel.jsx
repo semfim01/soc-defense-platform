@@ -25,7 +25,7 @@ export default function AttackPanel({
         borderRadius: "10px",
       }}
     >
-      <h2>⚠️ Attack Lab</h2>
+      <h2>⚠️ Attack Lab Froça bruta</h2>
 
       <p>
         <b>IP:</b>
